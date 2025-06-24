@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Gagan Shukla
 
 ## 🚀 About Me
-I'm a **Software Engineer (Module Lead)** with a passion for building innovative solutions and exploring new domains. I thrive on continuous learning and staying updated with the latest technologies.
+I'm a **Software Engineer (Module Lead)**  in chapter247 infotech with a passion for building innovative solutions and exploring new domains. I thrive on continuous learning and staying updated with the latest technologies.
 
 ---
 
@@ -27,16 +27,16 @@ I'm a **Software Engineer (Module Lead)** with a passion for building innovative
   An LMS platform tailored for PT entrance exams, providing comprehensive learning tools.
 
 ---
-
+<!--
 ## 🎯 Passions & Interests
 - Lifelong learning and professional growth  
 - Exploring new domains and technologies  
 - Improving and optimizing software solutions
-
+-->
 ---
 
-## 🔗 Connect with Me
+<!--c## 🔗 Connect with Me
 - [GitHub](https://github.com/gagan-c247)  
 - [LinkedIn](https://in.linkedin.com/in/gagan-shukla-gs)
-
+-->
 ---
