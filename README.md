@@ -1,17 +1,42 @@
-## 👋 Hi, I’m Gagan Shukla
+# 👋 Hi, I’m Gagan Shukla
 
-**Role:** Software Engineer (Module Lead) 
-
-**Expertise:** Laravel, Lumen, MySQL, Git 
-
-**Notable Project:** **Yatara** – An insurance-based project focused on delivering innovative solutions in the insurance domain.
-
-**Passions:** Lifelong learner passionate about exploring new domains, staying updated with the latest technologies, and driving enhancements in software solutions.
-
-**Social Links:**
-- [GitHub](https://github.com/gagan-c247)
-- [LinkedIn](https://in.linkedin.com/in/gagan-shukla-gs)
+## 🚀 About Me
+I'm a **Software Engineer (Module Lead)** with a passion for building innovative solutions and exploring new domains. I thrive on continuous learning and staying updated with the latest technologies.
 
 ---
 
-Open to collaborating on exciting projects and always eager to learn something new!
+## 🛠️ Skills & Technologies
+
+| **Core Skills** | **Tools & Frameworks** |
+|-----------------|----------------------|
+| Laravel         | Git                  |
+| Lumen           | MySQL                |
+| REST APIs       | Version Control      |
+
+---
+
+## 🌟 Notable Projects
+
+- **Yatara**  
+  An insurance-based platform focused on delivering innovative solutions in the insurance domain.
+
+- **HolaMaven**  
+  An LMS project designed for MBA entrance exams, helping students prepare effectively.
+
+- **PTHustle**  
+  An LMS platform tailored for PT entrance exams, providing comprehensive learning tools.
+
+---
+
+## 🎯 Passions & Interests
+- Lifelong learning and professional growth  
+- Exploring new domains and technologies  
+- Improving and optimizing software solutions
+
+---
+
+## 🔗 Connect with Me
+- [GitHub](https://github.com/gagan-c247)  
+- [LinkedIn](https://in.linkedin.com/in/gagan-shukla-gs)
+
+---
